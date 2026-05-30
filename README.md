@@ -1,2 +1,14 @@
-# predictive-analytics-project
-Predictive Analytics project using historical data and Linear Regression to forecast future trends. Developed using Python, Pandas, and Scikit-Learn.
+# Predictive Analytics Using Historical Data
+
+This project uses historical sales data and Linear Regression to predict future trends.
+
+Tools Used:
+- Python
+- Pandas
+- Scikit-Learn
+
+Objective:
+To build a predictive model that forecasts future values using historical data.
+
+Outcome:
+Learn predictive modeling, trend analysis, and data-driven forecasting.
